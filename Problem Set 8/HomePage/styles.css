@@ -1,0 +1,20 @@
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+
+.nav-link:hover {
+    background-color: #f8f9fa;
+}
+
+
+#navbarNav {
+    margin-top: 20px;
+}
+
+
+.container {
+    margin-top: 50px;
+}

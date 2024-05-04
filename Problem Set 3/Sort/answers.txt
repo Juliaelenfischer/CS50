@@ -1,0 +1,6 @@
+sort1 uses: Bubble sort
+How do you know?: While in some .txt files like random or reversed sort3 it was faster, in sorted.txt it was slower. Therefore, in a sorted list, bubble sort is faster and not section sort.
+sort2 uses:Merge Sort
+How do you know?: Of the three options, it always took the least time due to its algorithm method.
+sort3 uses: Selection sort
+How do you know?: In the sorted list, it took the longest because it has a method that compares one by one
